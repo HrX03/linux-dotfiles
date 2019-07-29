@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Dracula-xfwm
+Comment=Yet Another Theme Based on Arc
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Dracula-xfwm
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=minimize,maximize,close
